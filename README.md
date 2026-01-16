@@ -60,15 +60,19 @@ This dashboard addresses these needs by transforming raw sales data into meaning
 ---
 
 ## 🔍 Executive Key Insights
-- Strong overall sales performance with consistent demand across product categories.
-- Healthy profitability, with some loss-making months indicating opportunities for cost optimization.
-- Positive customer spending behavior reflected in solid Average Order Value.
-- Sales revenue is concentrated in a few high-performing states, suggesting focused regional growth opportunities.
-- High-volume categories drive sales, while select sub-categories deliver higher profit margins.
-- Revenue dependency on key customers highlights the importance of retention and loyalty strategies.
-- Cash on Delivery remains the dominant payment mode, with increasing adoption of digital payments.
-
+- Total Sales Revenue (438K) generated across all transactions, indicating strong overall sales performance.
+- Total Profit (37K) highlights healthy profitability, with opportunities to improve margins during loss-making months.
+- Average Order Value (AOV – 121K) reflects solid customer spending behavior and effective pricing strategy.
+- Total Quantity Sold (5,615 units) confirms consistent demand across product categories.
+- Monthly Profit Analysis reveals clear seasonality, with strong performance in the early months and profit declines observed during mid-year, indicating a need for targeted promotions or cost optimization.
+- Quarterly Performance Trends show revenue and profit concentration in specific quarters, supporting better forecasting and quarterly planning
+- Geographic Analysis shows that a small number of states contribute the majority of sales revenue, suggesting opportunities for focused regional expansion and marketing investment.
+- Category-Level Demand indicates that Clothing drives the highest sales volume, while other categories contribute lower but potentially higher-margin sales.
+- Sub-Category Profitability highlights Printers and Bookcases as top profit-generating products, while lower-performing sub-categories present opportunities for pricing or product mix optimization.
+- Customer Contribution Analysis shows that revenue is concentrated among a few key customers, emphasizing the importance of retention and loyalty strategies.
+- Payment Mode Insights indicate a strong preference for Cash on Delivery (COD), with growing adoption of digital payments such as UPI and cards, suggesting opportunities to incentivize digital transactions for improved cash flow.
 ---
 
-## 📌 Conclusion
-This dashboard delivers a clear and actionable view of sales performance by combining financial, customer, product, and regional insights. It enables stakeholders to improve profitability, optimize product strategy, strengthen customer relationships, and make informed strategic decisions.
+#### This dashboard delivers a clear and actionable view of sales performance by combining financial, customer, product, and regional insights. It enables stakeholders to improve profitability, optimize product strategy, strengthen customer relationships, and make informed strategic decisions.
+
+---
