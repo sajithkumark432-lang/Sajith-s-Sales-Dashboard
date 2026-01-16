@@ -78,4 +78,6 @@ This dashboard addresses these needs by transforming raw sales data into meaning
 ---
 
 <img width="1650" height="928" alt="Full dashboard" src="https://github.com/user-attachments/assets/5d0281b0-c8b1-4325-88e6-740a483064d1" />
+<img width="1371" height="732" alt="Catog- Clothing" src="https://github.com/user-attachments/assets/dee941fc-3511-48bd-a298-67005bb48886" />
+
 
