@@ -76,3 +76,6 @@ This dashboard addresses these needs by transforming raw sales data into meaning
 #### This dashboard delivers a clear and actionable view of sales performance by combining financial, customer, product, and regional insights. It enables stakeholders to improve profitability, optimize product strategy, strengthen customer relationships, and make informed strategic decisions.
 
 ---
+
+<img width="1650" height="928" alt="Full dashboard" src="https://github.com/user-attachments/assets/5d0281b0-c8b1-4325-88e6-740a483064d1" />
+
